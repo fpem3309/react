@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "testpro",
+    "name": "날씨 테스트",
     "slug": "testpro",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier" : "com.myhome.myweather",
+      "buildNumber" : "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
