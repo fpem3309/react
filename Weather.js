@@ -21,7 +21,7 @@ const weatherOpthions = {
         iconName :"weather-hail",
         gradient : ["#89F7FE", "#66A6FF"],
         title : "Drizzle",
-        subtitle : "이건 뭔 날씨여"
+        subtitle : "이건 무슨 날씨여"
     },
     Rain : {
         iconName :"weather-rainy",
@@ -39,7 +39,7 @@ const weatherOpthions = {
         iconName :"weather-hail",
         gradient : ["#89F7Fe", "#66A6FF"],
         title : "Atmosphere",
-        subtitle : "이것도 뭔날씨여"
+        subtitle : "이것도 무슨 날씨여"
     },
     Clear : {
         iconName :"weather-sunny",
@@ -57,13 +57,13 @@ const weatherOpthions = {
         iconName :"weather-hail",
         gradient : ["#4DA0B0", "#D39D38"],
         title : "Mist",
-        subtitle : "미스트가 뭔날씨여"
+        subtitle : "미스트가 무슨 날씨여"
     },
     Dust : {
         iconName : "weather-hail",
         gradient : ["#4DA0B0", "#D39D38"],
         title : "Dust",
-        subtitle : "더스트는 또 뭔날씨여"
+        subtitle : "더스트는 무슨 날씨여"
     }
 };
 
